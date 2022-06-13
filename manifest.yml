@@ -1,2 +1,3 @@
+---
 applications:
-- name: wearedev
+- name: cf-deplyoment-demo
